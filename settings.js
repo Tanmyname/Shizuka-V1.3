@@ -16,11 +16,11 @@ global.btz = 'masukkan apikey mu di sini'
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
 global.ig = '--'
-global.yt = 'Tan'
-global.ttowner = '@codenametan'
-global.ownername = '@Tan'
-global.owner = ['72722727272'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
-global.ownernomer = '1718272828'
+global.yt = '--'
+global.ttowner = '--'
+global.ownername = '@VettDev'
+global.owner = ['VettDev'] // SETTING JUGA DI FOLDER DATABASE OWNER.json
+global.ownernomer = '6283159494499'
 global.socialm = 'GitHub: Tanmyname'
 global.location = 'Indonesia' 
 //========================setting Payment=====================\\
@@ -32,11 +32,11 @@ global.andana = 'Tan' // KOSONG KAN JIKA TIDAK ADA
 global.angopay = 'Tan' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //==================setting bot===========================\\
-global.botname = "Tv2"
+global.botname = "VettBot"
 global.ownernumber = '1818191'
-global.botnumber = '6285198468895'
-global.ownername = '@Tan'
-global.ownerNumber = ["61827191818@s.whatsapp.net"]
+global.botnumber = '6283193035358'
+global.ownername = '@VettDev'
+global.ownerNumber = ["6283159494499@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.gris = '`'
